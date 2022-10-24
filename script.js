@@ -29,3 +29,6 @@ console.info('56 - 23 =', plus, '(Sizning javob', userMinus, ')')
 console.info('11 * 3 =', plus, '(Sizning javob', userKupay, ')')
 console.info('33 / 12 =', plus, '(Sizning javob', userBol, ')')
 console.info('48 % 4 =', plus, '(Sizning javob', userQoldiq, ')')
+
+
+
