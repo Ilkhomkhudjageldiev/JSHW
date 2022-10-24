@@ -1,9 +1,9 @@
 
 
 
-// var userName = prompt('Hurmatli foydalanuvchi, Ismingizni kiriting')
+var userName = prompt('Hurmatli foydalanuvchi, Ismingizni kiriting')
 
-// var userAge = +prompt('Yoshingiz nechchida?')
+var userAge = +prompt('Yoshingiz nechchida?')
 
 
 var userPlus = +prompt('Masalaning javobini toping 6 + 7')
